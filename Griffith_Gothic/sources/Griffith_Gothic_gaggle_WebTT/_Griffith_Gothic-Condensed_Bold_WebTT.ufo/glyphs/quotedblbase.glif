@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="671.744"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="109" y="240" type="line"/>
+      <point x="303" y="240" type="line"/>
+      <point x="137" y="-225" type="line"/>
+      <point x="51" y="-225" type="line"/>
+    </contour>
+    <contour>
+      <point x="416" y="240" type="line"/>
+      <point x="610" y="240" type="line"/>
+      <point x="442" y="-225" type="line"/>
+      <point x="356" y="-225" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>com.fontbureau.compareLayer.masterCopy</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>610.304</real>
+                  <key>y</key>
+                  <real>239.616</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>442.368</real>
+                  <key>y</key>
+                  <real>-225.28</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>356.35200000000003</real>
+                  <key>y</key>
+                  <real>-225.28</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>415.744</real>
+                  <key>y</key>
+                  <real>239.616</real>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>303.104</real>
+                  <key>y</key>
+                  <real>239.616</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>137.216</real>
+                  <key>y</key>
+                  <real>-225.28</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>51.2</real>
+                  <key>y</key>
+                  <real>-225.28</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>108.544</real>
+                  <key>y</key>
+                  <real>239.616</real>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>quotedblbase</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>671.744</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

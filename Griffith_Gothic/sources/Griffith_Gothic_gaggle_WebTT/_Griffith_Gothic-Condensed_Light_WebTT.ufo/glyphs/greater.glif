@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="964.608"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="889" y="780" type="line"/>
+      <point x="889" y="676" type="line"/>
+      <point x="88" y="299" type="line"/>
+      <point x="88" y="414" type="line"/>
+      <point x="778" y="729" type="line"/>
+      <point x="88" y="1042" type="line"/>
+      <point x="88" y="1157" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>com.fontbureau.compareLayer.masterCopy</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>888.832</real>
+                  <key>y</key>
+                  <real>675.84</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>88.06400000000001</real>
+                  <key>y</key>
+                  <real>299.008</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>88.06400000000001</real>
+                  <key>y</key>
+                  <real>413.696</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>778.24</real>
+                  <key>y</key>
+                  <real>729.088</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>88.06400000000001</real>
+                  <key>y</key>
+                  <real>1042.432</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>88.06400000000001</real>
+                  <key>y</key>
+                  <real>1157.1200000000001</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>888.832</real>
+                  <key>y</key>
+                  <real>780.288</real>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>greater</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>964.608</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

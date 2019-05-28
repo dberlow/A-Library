@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="1024.0"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <contour>
+      <point x="379" y="1522" type="line"/>
+      <point x="516" y="1522" type="line"/>
+      <point x="244" y="1212" type="line"/>
+      <point x="184" y="1212" type="line"/>
+    </contour>
+    <contour>
+      <point x="711" y="1522" type="line"/>
+      <point x="848" y="1522" type="line"/>
+      <point x="575" y="1212" type="line"/>
+      <point x="516" y="1212" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>com.fontbureau.compareLayer.masterCopy</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>847.8720000000001</real>
+                  <key>y</key>
+                  <real>1521.664</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>575.488</real>
+                  <key>y</key>
+                  <real>1212.416</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>516.096</real>
+                  <key>y</key>
+                  <real>1212.416</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>710.6560000000001</real>
+                  <key>y</key>
+                  <real>1521.664</real>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>516.096</real>
+                  <key>y</key>
+                  <real>1521.664</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>243.71200000000002</real>
+                  <key>y</key>
+                  <real>1212.416</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>184.32</real>
+                  <key>y</key>
+                  <real>1212.416</real>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>378.88</real>
+                  <key>y</key>
+                  <real>1521.664</real>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>hungarumlaut</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>1024.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

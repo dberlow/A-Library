@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="316"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="236" y="678" type="curve" smooth="yes"/>
+      <point x="236" y="635"/>
+      <point x="202" y="600"/>
+      <point x="158" y="600" type="curve" smooth="yes"/>
+      <point x="115" y="600"/>
+      <point x="81" y="635"/>
+      <point x="81" y="678" type="curve" smooth="yes"/>
+      <point x="81" y="721"/>
+      <point x="115" y="755"/>
+      <point x="158" y="755" type="curve" smooth="yes"/>
+      <point x="202" y="755"/>
+      <point x="236" y="721"/>
+    </contour>
+    <contour>
+      <point x="222" y="678" type="curve" smooth="yes"/>
+      <point x="222" y="714"/>
+      <point x="194" y="742"/>
+      <point x="158" y="742" type="curve" smooth="yes"/>
+      <point x="122" y="742"/>
+      <point x="95" y="714"/>
+      <point x="95" y="678" type="curve" smooth="yes"/>
+      <point x="95" y="642"/>
+      <point x="122" y="614"/>
+      <point x="158" y="614" type="curve" smooth="yes"/>
+      <point x="194" y="614"/>
+      <point x="222" y="642"/>
+    </contour>
+  </outline>
+</glyph>

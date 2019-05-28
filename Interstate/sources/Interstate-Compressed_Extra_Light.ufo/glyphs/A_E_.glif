@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="458"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="14" y="0" type="line"/>
+      <point x="226" y="700" type="line"/>
+      <point x="437" y="700" type="line"/>
+      <point x="437" y="663" type="line"/>
+      <point x="278" y="663" type="line"/>
+      <point x="278" y="392" type="line"/>
+      <point x="389" y="392" type="line"/>
+      <point x="389" y="356" type="line"/>
+      <point x="278" y="356" type="line"/>
+      <point x="278" y="37" type="line"/>
+      <point x="447" y="37" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="241" y="198" type="line"/>
+      <point x="110" y="198" type="line"/>
+      <point x="52" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="233" type="line"/>
+      <point x="241" y="233" type="line"/>
+      <point x="241" y="520" type="line" smooth="yes"/>
+      <point x="241" y="545"/>
+      <point x="242" y="629"/>
+      <point x="242" y="645" type="curve"/>
+      <point x="238" y="625"/>
+      <point x="214" y="540"/>
+      <point x="207" y="517" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>
