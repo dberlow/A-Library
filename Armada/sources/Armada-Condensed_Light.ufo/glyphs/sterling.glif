@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="1">
+  <advance width="411"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="369" y="0" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="42" y="33" type="line"/>
+      <point x="83" y="33" type="line"/>
+      <point x="83" y="349" type="line"/>
+      <point x="42" y="349" type="line"/>
+      <point x="42" y="384" type="line"/>
+      <point x="83" y="384" type="line"/>
+      <point x="83" y="681" type="line"/>
+      <point x="125" y="714"/>
+      <point x="177" y="727"/>
+      <point x="226" y="727" type="curve" smooth="yes"/>
+      <point x="273" y="727"/>
+      <point x="326" y="714"/>
+      <point x="368" y="681" type="curve"/>
+      <point x="368" y="487" type="line"/>
+      <point x="332" y="487" type="line"/>
+      <point x="332" y="661" type="line"/>
+      <point x="302" y="684"/>
+      <point x="264" y="694"/>
+      <point x="226" y="694" type="curve" smooth="yes"/>
+      <point x="188" y="694"/>
+      <point x="150" y="684"/>
+      <point x="120" y="661" type="curve"/>
+      <point x="120" y="384" type="line"/>
+      <point x="273" y="384" type="line"/>
+      <point x="273" y="349" type="line"/>
+      <point x="120" y="349" type="line"/>
+      <point x="120" y="33" type="line"/>
+      <point x="369" y="33" type="line"/>
+    </contour>
+  </outline>
+</glyph>

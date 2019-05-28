@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="75"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="61" y="370" type="line"/>
+      <point x="15" y="370" type="line"/>
+      <point x="15" y="480" type="line"/>
+      <point x="61" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="110" type="line"/>
+      <point x="49" y="-65" type="line"/>
+      <point x="3" y="-65" type="line"/>
+      <point x="19" y="110" type="line"/>
+    </contour>
+  </outline>
+</glyph>
