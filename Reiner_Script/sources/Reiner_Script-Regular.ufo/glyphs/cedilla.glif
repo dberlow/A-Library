@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="220"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="147" y="-30" type="line"/>
+      <point x="140" y="-76"/>
+      <point x="114" y="-107"/>
+      <point x="86" y="-120" type="curve"/>
+      <point x="77" y="-110" type="line"/>
+      <point x="94" y="-97"/>
+      <point x="106" y="-81"/>
+      <point x="109" y="-61" type="curve"/>
+      <point x="79" y="-50" type="line"/>
+      <point x="90" y="-27" type="line"/>
+    </contour>
+  </outline>
+</glyph>
